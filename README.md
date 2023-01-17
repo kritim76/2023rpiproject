@@ -20,3 +20,5 @@ Noteer hier welke software je gebruikt. Noteer eveneens aanpassingen die je doet
 
 ### Eigen scripts en programma's
 Sla je als aparte bestanden op in deze repository
+
+https://nl.ephesossoftware.com/articles/diy/4-best-raspberry-pi-smart-tv-projects-weve-seen-so-far.html
