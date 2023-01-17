@@ -6,12 +6,16 @@ Een koppeling maken van de Yale app met Homebridge zal de eerste stap zijn.
 ## Bronnen
 https://www.yalehome.com/us/en/products/smart-technology/yale-access
 https://homebridge.io/raspberry-pi-image
+
 ## Hardware
-Yale deurslot
-raspberry pi3
+Yale deurslot, bridge, codeklavier
+raspberry pi3 
+
 ## Software
 Yale Acces app
-Homebridge Raspberry Pi Image
-Noteer hier welke sofwtare je gebruikt. Noteer eveneens aanpassingen die je doet aan configuratiebestanden.
+Homebridge Raspberry Pi Image 
+Homebridge 
+Noteer hier welke software je gebruikt. Noteer eveneens aanpassingen die je doet aan configuratiebestanden.
+
 ### Eigen scripts en programma's
 Sla je als aparte bestanden op in deze repository
