@@ -1,3 +1,3 @@
 ## Afbeelding toevoegen
-![https://myoctocat.com/assets/images/base-octocat.svg]
-![images/GitHub-Mark-64px.png]
+![Dit is een online afbeelding](https://myoctocat.com/assets/images/base-octocat.svg)
+![En dit de afbeelding in onze image map](images/GitHub-Mark-64px.png)
