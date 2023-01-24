@@ -29,8 +29,9 @@ https://nl.ephesossoftware.com/articles/diy/4-best-raspberry-pi-smart-tv-project
 ## Planning
 - 17/01/2023 Homebridge installeren, account aanmaken
 - 24/01/2023 MagicMirror instellen
-- - clock instellen (standaard aanwezig-clock)
+- - klok instellen (standaard aanwezig-clock)
 - - welkomsttekst instellen (standaard aanwezig-helloworld)
-- - google foto als achtergrond instellen (extra modules toevoegen-MMM GooglePhotos)
+- - weerbericht instellen op locatie (standaard aanwezig-weather)
+- - google foto als achtergrond instellen (extra modules toevoegen-MMM-GooglePhotos)
 - - wifi code op display zetten
 - - muziekspeler instellen
