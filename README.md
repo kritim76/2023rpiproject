@@ -28,3 +28,8 @@ https://nl.ephesossoftware.com/articles/diy/4-best-raspberry-pi-smart-tv-project
 ## Planning
 - 17/01/2023 Homebridge installeren, account aanmaken
 - 24/01/2023 MagicMirror instellen
+- - clock instellen
+- - welkomsttekst instellen
+- - google foto als achtergrond instellen
+- - wifi code op display zetten
+- - muziekspeler instellen
