@@ -24,3 +24,7 @@ Noteer hier welke software je gebruikt. Noteer eveneens aanpassingen die je doet
 Sla je als aparte bestanden op in deze repository
 
 https://nl.ephesossoftware.com/articles/diy/4-best-raspberry-pi-smart-tv-projects-weve-seen-so-far.html
+
+## Planning
+17/01/2023 Homebridge installeren, account aanmaken
+24/01/2023 MagicMirror instellen
