@@ -5,19 +5,20 @@ Een koppeling maken van de Yale app met Homebridge zal de eerste stap zijn.
 Als infoscherm koos ik voor het Smartmirror project.
 
 ## Bronnen
-https://www.yalehome.com/us/en/products/smart-technology/yale-access
-https://homebridge.io/raspberry-pi-image
-https://gist.github.com/LimeBlast/1574e0e141e4be43b37e
-https://magicmirror.builders/
+- https://www.yalehome.com/us/en/products/smart-technology/yale-access
+- https://homebridge.io/raspberry-pi-image
+- https://gist.github.com/LimeBlast/1574e0e141e4be43b37e
+- https://magicmirror.builders/
 
 ## Hardware
-Yale deurslot, bridge, codeklavier
-raspberry pi3 
+- Yale deurslot, bridge, codeklavier
+- raspberry pi3 
+- bestaande tv
 
 ## Software
-Yale Acces app
-Homebridge Raspberry Pi Image 
-MagicMirror (+ modules)
+- Yale Acces app
+- Homebridge Raspberry Pi Image 
+- MagicMirror (+ modules)
 Noteer hier welke software je gebruikt. Noteer eveneens aanpassingen die je doet aan configuratiebestanden.
 
 ### Eigen scripts en programma's
