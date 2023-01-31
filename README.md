@@ -1,6 +1,6 @@
 # 2023rpiproject
 ## Beschrijving
-Na het ingeven van een toegangscode op een Yale Acces module, wens ik een display(tv) te laten starten waarop een welkomscherm de bezoeker welkom heet met de nodige info. 
+Cursus RPI2 SNT Brugge, uitwerken eigen project. Na het ingeven van een toegangscode op een Yale Acces module, wens ik een display(tv) te laten starten waarop een welkomscherm de bezoeker welkom heet met de nodige info. 
 Een koppeling maken van de Yale app met Homebridge zal de eerste stap zijn.
 Als infoscherm koos ik voor het Smartmirror project.
 
