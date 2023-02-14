@@ -13,6 +13,7 @@ Als muziekspeler integreer ik een spotify module/speaker.
 - https://www.npmjs.com/package/homebridge-rusty-spotify
 - https://developers.homebridge.io/#/service/Door
 - https://www.audkit.com/spotify-music/spotify-on-raspberry-pi.html
+- https://www.reddit.com/r/homebridge/comments/stj5kb/homebridge_spotify_speaker/
 - 
 
 
