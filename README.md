@@ -9,11 +9,14 @@ Als infoscherm koos ik voor het Smartmirror project.
 - https://homebridge.io/raspberry-pi-image
 - https://gist.github.com/LimeBlast/1574e0e141e4be43b37e
 - https://magicmirror.builders/
+- https://www.npmjs.com/package/homebridge-rusty-spotify
+
 
 ## Hardware
 - Yale deurslot, bridge, codeklavier
 - raspberry pi3 
 - bestaande tv
+- apple tv module
 
 ## Software
 - Yale Acces app
@@ -35,3 +38,8 @@ https://nl.ephesossoftware.com/articles/diy/4-best-raspberry-pi-smart-tv-project
 - - google foto als achtergrond instellen (extra modules toevoegen-MMM-GooglePhotos)
 - - wifi code op display zetten
 - - muziekspeler instellen
+- 31/1/2023 fine tuning maggic mirror
+- 07/02/2023 Connectie tussen homebridge/yale/iphone (niet aanwezig in de les, opdracht extern gedaan tijdens de week)
+- connectie werkt naar behoren, scene instellen lukt, maar bij keuze om muziek af te spelen bij input van het deurslot, krijg ik enkele de keuze om dit via apple music te doen (betalend)
+- ik beschik voer een spotify account, of wens via youtube video af te spelen.
+- 14/02/2023 Homebridge spotify connecteren
