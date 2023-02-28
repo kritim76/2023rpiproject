@@ -52,3 +52,4 @@ https://nl.ephesossoftware.com/articles/diy/4-best-raspberry-pi-smart-tv-project
 - connectie werkt naar behoren, scene instellen lukt, maar bij keuze om muziek af te spelen bij input van het deurslot, krijg ik enkele de keuze om dit via apple music te doen (betalend) Ik beschik over een spotify account, of wens eventueel via youtube video te kunnen afspelen.
 - 14/02/2023 Homebridge spotify connecteren. Spotify API aanvragen.
 - 28/02/2023 Homebridge verder instellen. Door het zoeken op Github kwam ik tot de vaststelling dat ook Homebridge zelf een mooi grafisch dashboard ter beschikking heeft, die je als aparte module kan installeren. Binnen de modules kan je ongeveer hetzelfde instellen en weergeven zoals op een magicmirror + je krijgt rechtstreeks controle over je homedbridge devices.
+- 
