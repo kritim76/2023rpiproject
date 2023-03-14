@@ -5,7 +5,7 @@ Een koppeling maken van de Yale app met Homebridge zal de eerste stap zijn.
 Als infoscherm koos ik voor het Smartmirror project.
 Als muziekspeler integreer ik een spotify module/speaker.
 
-update 28/2/2023. Binnen de koppeling naar homebridge blijkt het eigen dashboard minstens over de capaciteiten te beschikken die ik nodig heb.
+*update 28/2/2023. Binnen de koppeling naar homebridge blijkt het eigen dashboard minstens over de capaciteiten te beschikken die ik nodig heb.
 
 ## Bronnen
 - https://www.yalehome.com/us/en/products/smart-technology/yale-access
@@ -34,7 +34,8 @@ update 28/2/2023. Binnen de koppeling naar homebridge blijkt het eigen dashboard
 
 
 ### Eigen scripts en programma's
-Sla je als aparte bestanden op in deze repository
+- voorlopig geen eigen scripts
+
 
 https://nl.ephesossoftware.com/articles/diy/4-best-raspberry-pi-smart-tv-projects-weve-seen-so-far.html
 
@@ -53,5 +54,6 @@ https://nl.ephesossoftware.com/articles/diy/4-best-raspberry-pi-smart-tv-project
 - 14/02/2023 Homebridge spotify connecteren. Spotify API aanvragen.
 ******************************************
 - 28/02/2023 Homebridge verder instellen. Door het zoeken op Github kwam ik tot de vaststelling dat ook Homebridge zelf een mooi grafisch dashboard ter beschikking heeft, die je als aparte module kan installeren. Binnen de modules kan je ongeveer hetzelfde instellen en weergeven zoals op een magicmirror + je krijgt rechtstreeks controle over je homedbridge devices.
-- 
+- 07/03/2023 Connectie werkt uiteindelijk naar behoren. Minpuntje nog momenteel: Muziekspeler start bij liedje/lijst die laatst beluisterd werd op spotify account.
+- 14/03/2023 
 ******************************************
