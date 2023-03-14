@@ -55,5 +55,7 @@ https://nl.ephesossoftware.com/articles/diy/4-best-raspberry-pi-smart-tv-project
 ******************************************
 - 28/02/2023 Homebridge verder instellen. Door het zoeken op Github kwam ik tot de vaststelling dat ook Homebridge zelf een mooi grafisch dashboard ter beschikking heeft, die je als aparte module kan installeren. Binnen de modules kan je ongeveer hetzelfde instellen en weergeven zoals op een magicmirror + je krijgt rechtstreeks controle over je homedbridge devices.
 - 07/03/2023 Connectie werkt uiteindelijk naar behoren. Minpuntje nog momenteel: Muziekspeler start bij liedje/lijst die laatst beluisterd werd op spotify account.
-- 14/03/2023 
+- 14/03/2023 Zoektocht hoe de playlist 
+- http://developper.spotify.com/console/get-playlist
+
 ******************************************
