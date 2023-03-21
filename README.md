@@ -18,6 +18,7 @@ Als muziekspeler integreer ik een spotify module/speaker.
 - https://www.reddit.com/r/homebridge/comments/stj5kb/homebridge_spotify_speaker/
 - https://forums.raspberrypi.com/viewtopic.php?t=151328
 - https://developper.spotify.com
+- https://github.com/EricAndrechek/homebridge-display
 
 
 
