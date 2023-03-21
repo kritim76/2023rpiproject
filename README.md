@@ -58,5 +58,5 @@ https://nl.ephesossoftware.com/articles/diy/4-best-raspberry-pi-smart-tv-project
 - 07/03/2023 Connectie werkt uiteindelijk naar behoren. Minpuntje nog momenteel: Muziekspeler start bij liedje/lijst die laatst beluisterd werd op spotify account.
 - 14/03/2023 via http://developer.spotify.com/console/get-playlist info gevonden en krijg ik de gewenste afspeellijst zoals ik zelf wil.
 - 21/03/2023 github even doorlopen ifv fine-tunen display.
-- 28/03/2023 einde project, afwerken github opdracht.
+- 28/03/2023 
 ******************************************
